@@ -1,4 +1,4 @@
-![Screenshot](screenshot.png)
+![Screenshot](screenshot1.png)
 # Resume://Scan
 
 Resume://Scan is a modern ATS (Applicant Tracking System) resume analyzer designed to help users evaluate and improve their resumes before applying for jobs. The application allows users to upload PDF, DOCX, and TXT resumes, extracts and analyzes the content, estimates ATS compatibility, identifies relevant and missing keywords, and provides actionable recommendations to strengthen the resume.
